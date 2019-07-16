@@ -1,4 +1,4 @@
-# Super-Resolution-for-MR-Images
+# Super-Resolution-DNN-for-MR-Images
 
 Detailed explanations about the code and usage are written in the Coding_Challange_Report.pdf
 
